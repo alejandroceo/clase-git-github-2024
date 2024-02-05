@@ -12,7 +12,7 @@ Git status = Lista todos archivos nuevos o modificados que se deben configurar.
 
 Git add . = Toma una instantanea del archivo para preparar la version y con el punto al final agrega todos los archivos al tiempo.
 
-Git commit -m "Primer Commit" Registra la instantanea del archivo permanentemente en el historial de Version. 
+Git commit -m "Primer Commit" = Registra la instantanea del archivo permanentemente en el historial de Version. 
 
 
 ### Segunda Clase "Extra" Dia Viernes 02 de Febrero de 2024.
