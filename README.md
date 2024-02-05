@@ -25,4 +25,9 @@ Se recomienda a los estudiantes hacer un fork de este Repo y darle Star
 
 Como configurar con comandos a traves de terminal el user y el email de Git.
 
+#### 1. git config --global user.name "NOMBRE DEL USER"
+#### 2. git config --global user.email "email@github.com"
+#### 3. git config --global --list = Para ver los Cambios!!!
+
+
 
